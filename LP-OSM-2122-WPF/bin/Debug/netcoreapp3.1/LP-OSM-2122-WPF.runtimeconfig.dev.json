@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\ciree\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\ciree\\.nuget\\packages"
+    ]
+  }
+}

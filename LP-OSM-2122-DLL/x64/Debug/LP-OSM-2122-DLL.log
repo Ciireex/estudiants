@@ -1,0 +1,11 @@
+﻿  pch.cpp
+  DLL-Bridge.cpp
+  dllmain.cpp
+  MapaRender.cpp
+C:\Users\ciree\Desktop\2INFO\LP\Proyecto\estudiants\LP-OSM-2122-DLL\MapaRender.cpp(37,57): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+  PuntDeInteresBase.cpp
+  Util.cpp
+  XML4OSMUtil.cpp
+  Generando código...
+     Creando biblioteca C:\Users\ciree\Desktop\2INFO\LP\Proyecto\estudiants\x64\Debug\LP-OSM-2122-DLL.lib y objeto C:\Users\ciree\Desktop\2INFO\LP\Proyecto\estudiants\x64\Debug\LP-OSM-2122-DLL.exp
+  LP-OSM-2122-DLL.vcxproj -> C:\Users\ciree\Desktop\2INFO\LP\Proyecto\estudiants\x64\Debug\LP-OSM-2122-DLL.dll
